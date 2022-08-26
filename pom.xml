@@ -91,7 +91,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sukesh repositoryy</name>
+	      <name>sukesh repository</name>
 	      <url>http://43.204.230.28:8081/repository/sukesh-release/</url>
 	    </repository>
 	    
