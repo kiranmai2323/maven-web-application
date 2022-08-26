@@ -92,7 +92,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sukesh repositoryy</name>
-	      <urlhttp://43.204.230.28:8081/repository/sukesh-release/></url>
+	      <url>http://43.204.230.28:8081/repository/sukesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
