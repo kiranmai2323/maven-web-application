@@ -91,14 +91,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sukesh repository</name>
-	      <url>http://43.204.230.28:8081/repository/sukesh-release/</url>
+	      <name>kiranmairepository</name>
+	      <url>http://43.204.230.28:8081/repository/kiranmairepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sukesh snapshot repository </name>
-	      <url>http://43.204.230.28:8081/repository/sukesh-snapshot/</url>
+	      <name>kiranmai snapshot repository </name>
+	      <url>http://43.204.230.28:8081/repository/kiranmaisnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
