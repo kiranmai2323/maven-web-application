@@ -42,7 +42,7 @@ stage('DeployApp'){
         sh "ansible-playbook -i aws_ec2.yaml  appdeploy.yaml -u ec2-user --private-key=$AWS_EC2_PRIVATE_KEY --limit tomcatservers --ssh-common-args='-o StrictHostKeyChecking=no'"
       } 
 }
-  
+  }
   
 }//Stages Closing
 
